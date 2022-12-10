@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theint Ei Phyu</h1>
-<h3 align="center">Web Developer from Myanmar</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Laraval, Php, Vue, Javascript, Java, Html, Css, Reactjs and Japanese Language**
 

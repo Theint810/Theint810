@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theint Ei Phyu</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Laraval, Php, Vue, Javascript, Java, Html, Css, Reactjs and Japanese Language**
+- 🌱 I’m currently learning **Programming and Japanese Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Theint810](https://github.com/Theint810)
 
